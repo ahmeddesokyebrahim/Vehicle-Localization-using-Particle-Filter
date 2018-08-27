@@ -1,11 +1,11 @@
 # **Vehicle Localization Using Particle Filter**
 ---
 
-**In this project, I have worked on a 2-D particle filter to localize a car given a map, sensor data (e.g., Lidar), and some initial localization information (analogous to what a GPS would provide) .**
+**This project is a 2-D particle filter to localize a car given a map, sensor data (e.g., Lidar), and some initial localization information (analogous to what a GPS would provide) .**
 
 ## Project Introduction:
 ---
-The  vehicle has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
+The vehicle has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
 
 
 ## Environment:
